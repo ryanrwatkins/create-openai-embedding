@@ -74,3 +74,7 @@ print(docs)
 # You do not have to use FAISS embedding, for example you can create a vector database as the embedding file, you can read the OpenAI and LangChain documentation to determine which is best for your project.
 
 # To see how this works with a ChatGPT ChatBot, you can see the app and code at - https://huggingface.co/spaces/ryanrwatkins/needs
+
+# This uses LangChain library, which is a great tool, you can learn more:
+# https://www.youtube.com/watch?v=2xxziIWmaSA&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5&index=3
+# https://github.com/gkamradt/langchain-tutorials/blob/main/LangChain%20Cookbook.ipynb
